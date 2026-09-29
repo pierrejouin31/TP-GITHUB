@@ -32,6 +32,6 @@ Afficher l'historique en graphe quand c'est pertinent.
 (capture)
 
 ## Trois commits annotés
-1. <hash> : modifié en local
+1. <hash> :
 2. <hash> :
 3. <hash> :
